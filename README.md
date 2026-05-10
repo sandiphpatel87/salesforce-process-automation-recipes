@@ -162,4 +162,4 @@ MIT License — see [LICENSE](LICENSE).
 
 ---
 
-
+Curated from 15+ years of enterprise Salesforce implementations. Every recipe has been battle-tested in production.
